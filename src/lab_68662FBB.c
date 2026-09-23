@@ -11,7 +11,6 @@ void printscreen()
     printf("#    #\n");
 }
 
-// DO NOT change the code below
 #ifndef ___TEST___
 int main()
 {
